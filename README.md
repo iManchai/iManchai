@@ -12,5 +12,10 @@ Hi, my name is Elias. I am a software engineer that like to code, play videogame
 
 ## Get in touch
 
-- 💼 [LinkedIn](in/elias-fung)
-- 💻 [Personal website](eliasfung.vercel.app)
+- 💼 [LinkedIn](https://linkedin.com/in/elias-fung/)
+- 💻 [Personal website](https://eliasfung.vercel.app)
+
+<br>
+
+> *Success is the product of daily habits – not once in a lifetime transformation.*
+> -James Clear
