@@ -1,10 +1,10 @@
 ## Hello, there! :wave:
 
-Hi, my name is Elias. I am a software engineer that like to code, play videogames, hear music, and *if* possible travel to know new places and learn about new cultures ✈️ ! 
+Hi, my name is Elias. I am a Software Engineer that like to code, play videogames, hear music, and *if* possible travel to know new places and learn about new cultures ✈️ ! 
 
-- ✌️ I am currently working as a fullstack web developer
-- 🕸️ In constant learning of new technology trends
-- 🔥 Always looking foward new oportunities to grow
+- ✌️ I am currently working as a Data Engineer, but can work also as a Full Stack Software Engineer.
+- 🕸️ In constant learning of new technologies to innovate and provide useful solutions to society.
+- 🔥 Always looking foward new oportunities to grow.
 
 ## My Tech Stack
 
